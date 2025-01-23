@@ -58,6 +58,7 @@ nav ul{
 nav .home_li{
     margin-right: auto;
     font-weight: 600;    
+    align-items: center;
 }
 
 nav a{
